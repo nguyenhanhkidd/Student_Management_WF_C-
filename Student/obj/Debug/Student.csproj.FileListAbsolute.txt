@@ -1,0 +1,10 @@
+D:\Project\Code\WF\Student\Student\bin\Debug\Student.exe.config
+D:\Project\Code\WF\Student\Student\bin\Debug\Student.exe
+D:\Project\Code\WF\Student\Student\bin\Debug\Student.pdb
+D:\Project\Code\WF\Student\Student\obj\Debug\Student.csproj.AssemblyReference.cache
+D:\Project\Code\WF\Student\Student\obj\Debug\Student.Form1.resources
+D:\Project\Code\WF\Student\Student\obj\Debug\Student.Properties.Resources.resources
+D:\Project\Code\WF\Student\Student\obj\Debug\Student.csproj.GenerateResource.cache
+D:\Project\Code\WF\Student\Student\obj\Debug\Student.csproj.CoreCompileInputs.cache
+D:\Project\Code\WF\Student\Student\obj\Debug\Student.exe
+D:\Project\Code\WF\Student\Student\obj\Debug\Student.pdb
